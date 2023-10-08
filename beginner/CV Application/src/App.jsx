@@ -1,0 +1,3 @@
+function Panel({title, children}){
+
+}
